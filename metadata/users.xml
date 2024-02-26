@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users xmlns="http://www.demandware.com/xml/impex/user/2007-09-05">
+    <user login="Alex.mocanu791@gmail.com" enabled-flag="true">
+        <credentials>
+            <external-id>99b10e5f-6259-4901-91bb-4f52aa9e5c04</external-id>
+        </credentials>
+        <profile>
+            <first-name>Marius Alexandru</first-name>
+            <last-name>Mocanu</last-name>
+            <email>Alex.mocanu791@gmail.com</email>
+        </profile>
+    </user>
+
+</users>
